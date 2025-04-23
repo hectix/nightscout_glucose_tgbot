@@ -1,0 +1,6 @@
+.env
+main_back.py
+stuff.txt
+*.txt
+*.db
+__pycache__/
